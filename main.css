@@ -8,7 +8,7 @@ div #red {
   border-left-color: #f100; /* these remove the color from the left side */
   border-right-color: #f100; /* the right side */
   border-bottom-color: #f100; /* and the bottom of the circle */
-  border-top-color: #f100;
+  border-top-color: red;
 }
 
 div #orange {
